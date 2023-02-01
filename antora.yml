@@ -1,0 +1,11 @@
+name: devotions
+title: Devotions
+version: 2023.01
+start_page: devotions-intro.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+
+nav:
+- modules/ROOT/nav.adoc

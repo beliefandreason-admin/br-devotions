@@ -1,0 +1,1 @@
+* xref:devotions-intro.adoc[Daily Devotions]
